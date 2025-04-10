@@ -5,7 +5,9 @@ calculator.py
 One function per operation, in order.
 """
 # First example
-def add(a, b): 
-    pass
+def add(a, b):
+    return (a+b)
+
+print(add(5, 10))
 
 
